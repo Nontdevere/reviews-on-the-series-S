@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xbox Series S Review</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0078d4;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Xbox Series S Review</h1>
+    </header>
+    <section>
+        <h2>Introduction</h2>
+        <p>The Xbox Series S is a compact and powerful gaming console released by Microsoft. It offers next-generation gaming experiences at an affordable price point.</p>
+
+        <h2>Features</h2>
+        <ul>
+            <li>1440p gaming resolution</li>
+            <li>High frame rates up to 120fps</li>
+            <li>Quick load times with SSD</li>
+            <li>Backward compatibility with thousands of games</li>
+            <li>Xbox Game Pass subscription service</li>
+        </ul>
+
+        <h2>Review</h2>
+        <p>The Xbox Series S delivers impressive performance for its size and price. It provides smooth gameplay with excellent graphics and fast loading times. The Xbox Game Pass subscription offers a vast library of games, making it a great value for gamers.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Xbox Series S Review</p>
+    </footer>
+</body>
+</html>
